@@ -2,6 +2,10 @@
 >
 > Uses Samsung's SmartThings API
 
+<p align="center">
+  <img alt="Image of implementation" src="./assets/Screenshot 2024-10-13 at 19-34-53 SmartThings Wiz Bulb Control.png">
+</p>
+
 <!--toc:start-->
 - [Description](#description)
 - [Pre-requisites](#pre-requisites)
@@ -13,10 +17,6 @@
 - [Features](#features)
 - [Q&A](#qa)
 <!--toc:end-->
-
-<p align="center">
-  <img alt="Image of implementation" src="./assets/Screenshot 2024-10-13 at 19-34-53 SmartThings Wiz Bulb Control.png">
-</p>
 
 ## Description
 
