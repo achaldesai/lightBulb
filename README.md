@@ -1,19 +1,19 @@
-# Simple Phillips Smartbulb Frontend
+# Simple Phillips Smartbulb Web UI
+>
+> Uses Samsung's SmartThings API
 
 <!--toc:start-->
-- [Simple Phillips Smartbulb Frontend](#simple-phillips-smartbulb-frontend)
-  - [Description](#description)
-  - [Pre-requisites](#pre-requisites)
-  - [Steps to follow](#steps-to-follow)
-    - [1. Integrate Wiz Connected with Samsung SmartThings](#1-integrate-wiz-connected-with-samsung-smartthings)
-    - [2. Create access to the Samsung SmartThings API](#2-create-access-to-the-samsung-smartthings-api)
-    - [3. Find the deviceID for your bulb](#3-find-the-deviceid-for-your-bulb)
-    - [4. Final stretch - Edit the HTML file with the newly generated SmartThings token and device ID](#4-final-stretch-edit-the-html-file-with-the-newly-generated-smartthings-token-and-device-id)
-  - [Features](#features)
-  - [Q&A](#qa)
+- [Description](#description)
+- [Pre-requisites](#pre-requisites)
+- [Steps to follow](#steps-to-follow)
+  - [1. Integrate Wiz Connected with Samsung SmartThings](#1-integrate-wiz-connected-with-samsung-smartthings)
+  - [2. Create access to the Samsung SmartThings API](#2-create-access-to-the-samsung-smartthings-api)
+  - [3. Find the deviceID for your bulb](#3-find-the-deviceid-for-your-bulb)
+  - [4. Final stretch - Edit the HTML file with the newly generated SmartThings token and device ID](#4-final-stretch-edit-the-html-file-with-the-newly-generated-smartthings-token-and-device-id)
+- [Features](#features)
+- [Q&A](#qa)
 <!--toc:end-->
 
-> Uses Samsung's SmartThings API
 <p align="center">
   <img alt="Image of implementation" src="./assets/Screenshot 2024-10-13 at 19-34-53 SmartThings Wiz Bulb Control.png">
 </p>
