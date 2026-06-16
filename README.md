@@ -57,8 +57,8 @@ This is a simple html page that lets you control your Phillips Wiz Connected Lig
 
 - Download the [index.html](https://github.com/achaldesai/lightBulb/blob/main/index.html) or pull this repo in your local
 - Open the index.html file in a text editor of your choice. *You can use notepad if you are crazy enough*
-- Go to line 45, and replace the text inside the single quotes with your SmartThings token from step 2
-- Similarly, go to line 46, and replace the text inside the single quotes with the deviceID from step 3
+- Go to line 469, and replace the text inside the single quotes with your SmartThings token from step 2
+- Similarly, go to line 470, and replace the text inside the single quotes with the deviceID from step 3
 - Configuration for the webpage is done.
 - Open your favourite browser and open the index.html file by going to "file:///\<path\>/\<to\>/\<file\>/index.html"
 
